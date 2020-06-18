@@ -5,4 +5,4 @@
 2. [Exercisi2-Organización](https://github.com/dianavile/E-commerce-Bookstore/blob/master/Exercisi2Ecommerce-Flowchart-Diana.pdf)
 3. Protopipado
 4. Test
-5. Diselo
+5. Diseño
