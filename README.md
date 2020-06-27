@@ -3,6 +3,6 @@
 ## Las 5 fases de UX
 1. [Exercisi1-Investigacion](https://github.com/dianavile/E-commerce-Bookstore/blob/master/Exercisi1-EcommerceDiana.pdf)
 2. [Exercisi2-Organización](https://github.com/dianavile/E-commerce-Bookstore/blob/master/Exercisi2Ecommerce-Flowchart-Diana.pdf)
-3. Protopipado
+3. Prototipado
 4. Test
 5. Diseño
