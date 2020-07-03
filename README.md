@@ -6,3 +6,6 @@
 3. [Exercisi3-Wireframe-Prototipado](https://github.com/dianavile/E-commerce-Bookstore/blob/master/3ExercisiEcommerce-Wireframe.PNG)
 4. Test
 5. Diseño
+
+
+![Exercisi3-Wireframe-Prototipado](https://github.com/dianavile/E-commerce-Bookstore/blob/master/3ExercisiEcommerce-Wireframe.PNG)
