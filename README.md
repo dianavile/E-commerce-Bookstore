@@ -10,7 +10,8 @@
     ![Exercisi3-Wireframe-Prototipado](https://github.com/dianavile/E-commerce-Bookstore/blob/master/3ExercisiEcommerce-Wireframe.PNG)
     #### Iteración 2
     ![Iteración2-Prototipado](https://github.com/dianavile/E-commerce-Bookstore/blob/master/E-commerce-Bookstore-Design.PNG)
+    ### HTML & CSS
 3. [Exercisi3.2-HTML-CSS](https://upbeat-bell-9b04b7.netlify.app/)
-TODO
+![Books-Landingpage HTML, CSS](https://github.com/dianavile/Books/blob/master/assets/img/Books-landingpage.PNG)
 4. Test
 5. Diseño
